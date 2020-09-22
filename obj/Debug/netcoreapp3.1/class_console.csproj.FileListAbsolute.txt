@@ -1,0 +1,11 @@
+/home/quentinroyer/projects/c#/class_console/bin/Debug/netcoreapp3.1/class_console
+/home/quentinroyer/projects/c#/class_console/bin/Debug/netcoreapp3.1/class_console.deps.json
+/home/quentinroyer/projects/c#/class_console/bin/Debug/netcoreapp3.1/class_console.runtimeconfig.json
+/home/quentinroyer/projects/c#/class_console/bin/Debug/netcoreapp3.1/class_console.runtimeconfig.dev.json
+/home/quentinroyer/projects/c#/class_console/bin/Debug/netcoreapp3.1/class_console.dll
+/home/quentinroyer/projects/c#/class_console/bin/Debug/netcoreapp3.1/class_console.pdb
+/home/quentinroyer/projects/c#/class_console/obj/Debug/netcoreapp3.1/class_console.csprojAssemblyReference.cache
+/home/quentinroyer/projects/c#/class_console/obj/Debug/netcoreapp3.1/class_console.AssemblyInfoInputs.cache
+/home/quentinroyer/projects/c#/class_console/obj/Debug/netcoreapp3.1/class_console.AssemblyInfo.cs
+/home/quentinroyer/projects/c#/class_console/obj/Debug/netcoreapp3.1/class_console.dll
+/home/quentinroyer/projects/c#/class_console/obj/Debug/netcoreapp3.1/class_console.pdb
