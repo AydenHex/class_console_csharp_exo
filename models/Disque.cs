@@ -6,7 +6,7 @@ namespace class_console.models
     {
         protected string label;
 
-        public Disque(string designation, int prix, string label) : base(designation, prix) {
+        public Disque(string designation, int prix, string label, TypeArticle typeArticle, int quantite) : base(designation, prix, typeArticle, quantite) {
             this.label = label;
         }
 

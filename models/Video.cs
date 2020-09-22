@@ -6,7 +6,7 @@ namespace class_console.models
     {
         protected int duree;
 
-        public Video(string designation, int prix, int duree) : base(designation, prix) {
+        public Video(string designation, int prix, int duree, TypeArticle typeArticle, int quantite) : base(designation, prix, typeArticle, quantite) {
             this.duree = duree;
         }
 

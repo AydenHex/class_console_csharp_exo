@@ -5,7 +5,7 @@ namespace class_console.models
         protected string isbn;
         protected int nbPages;
 
-        public Livre(string designation, int prix, string isbn, int nbPages) : base(designation, prix) {
+        public Livre(string designation, int prix, string isbn, int nbPages, TypeArticle typeArticle, int quantite) : base(designation, prix, typeArticle, quantite) {
             this.isbn = isbn;
             this.nbPages = nbPages;
         }
